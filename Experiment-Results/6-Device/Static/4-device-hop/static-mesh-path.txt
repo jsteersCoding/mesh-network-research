@@ -1,0 +1,22 @@
+iperf3 -c 192.168.30.190 -u -w10000 -l1472 -t60 -i0.1 -b 200k >> 24th-4-device-hop.txt &
+
+
+
+jack@jack-ThinkPad-X230:~/24th-March-WiFiMAX-Less-Bandiwdth-Test$ meshpath
+DEST ADDR         NEXT HOP          IFACE	SN	METRIC	QLEN	EXPTIME		DTIM	DRET	FLAGS
+18:d6:c7:0b:fb:26 18:d6:c7:0c:7a:e8 mesh0	357	1841	0	0	800	3	0x14
+18:d6:c7:0c:08:fe 18:d6:c7:0c:7a:e8 mesh0	1749	2126	0	0	1600	4	0x14
+18:d6:c7:0c:76:b3 18:d6:c7:0c:7a:e8 mesh0	230	1481	0	0	1600	4	0x14
+18:d6:c7:0c:8a:77 18:d6:c7:0c:7a:e8 mesh0	125	6195	0	0	800	3	0x4
+18:d6:c7:0c:7a:e8 18:d6:c7:0c:7a:e8 mesh0	442	456	0	0	400	2	0x14
+
+
+
+
+DEST ADDR         NEXT HOP          IFACE	SN	METRIC	QLEN	EXPTIME		DTIM	DRET	FLAGS
+18:d6:c7:0b:fb:26 18:d6:c7:0c:7a:e8 mesh0	479	627	0	0	800	3	0x14
+18:d6:c7:0c:08:fe 18:d6:c7:0c:7a:e8 mesh0	2107	1899	0	0	1600	4	0x14
+18:d6:c7:0c:76:b3 18:d6:c7:0c:7a:e8 mesh0	370	1595	0	0	1600	4	0x14
+18:d6:c7:0c:8a:77 18:d6:c7:0c:7a:e8 mesh0	229	1311	0	0	800	3	0x14
+18:d6:c7:0c:7a:e8 18:d6:c7:0c:7a:e8 mesh0	516	683	0	0	200	1	0x14
+

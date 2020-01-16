@@ -1,0 +1,20 @@
+Metric graph generation guide:
+
+To ensure data is parsed appropriately for metric, use following commands:
+
+sed -i.bak '/^$/d' mesh-time.log # Remove new lines
+xclip -selection cat mesh-time.log # Copy contents of file to clipboard
+. Write-Path-to-Excel.sh # write mesh path recordings to excel
+sudo libreoffice --calc Path-to-F.txt.xls # Add mesh time to first column
+sed -i.bak -e 's/,/ /g' Path-to-F.txt.xls  # Replace commas
+python parse-elapsed-time-metric.py # Combine elapsed time with metric recordings
+python metric-graph-generator.py # Generate graph
+evince metric-changes.pdf # View graph
+
+Signal graph generation guide:
+
+To ensure data is parsed appropriately for signal strength, use following commands:
+
+python parse-elapsed-time-signal-strength.py # Combine elapsed time with signal recordings
+python signal-graph-generator.py # Generate graph
+evince strength-comparison.pdf # View graph

@@ -1,0 +1,69 @@
+<==         
+89.80-89.90 sec 2.88 KBytes 235 Kbits/sec 2   
+89.90-90.00 sec 1.44 KBytes 118 Kbits/sec 1   
+- - - - - - - - - -
+Interval Transfer Bandwidth Jitter Lost/Total Datagrams    
+0.00-90.00 sec 2.14 MBytes 200 Kbits/sec 48.414 ms -629976052/-629976051 (1e+02%)
+Sent -629976051 datagrams       
+         
+         
+         
+<==         
+89.80-89.90 sec 0.00 Bytes 0.00 bits/sec 0   
+89.90-90.00 sec 0.00 Bytes 0.00 bits/sec 0   
+- - - - - - - - - -
+Interval Transfer Bandwidth Jitter Lost/Total Datagrams    
+0.00-90.00 sec 699 KBytes 63.6 Kbits/sec 2509.192 ms 74/486 (15%)
+Sent 486 datagrams       
+         
+         
+         
+<==         
+89.80-89.90 sec 0.00 Bytes 0.00 bits/sec 0   
+89.90-90.00 sec 0.00 Bytes 0.00 bits/sec 0   
+- - - - - - - - - -
+Interval Transfer Bandwidth Jitter Lost/Total Datagrams    
+0.00-90.00 sec 1.30 MBytes 121 Kbits/sec 524.838 ms -59216466/-59216465 (1e+02%)
+Sent -59216465 datagrams       
+         
+         
+         
+<==         
+89.80-89.90 sec 0.00 Bytes 0.00 bits/sec 0   
+89.90-90.00 sec 0.00 Bytes 0.00 bits/sec 0   
+- - - - - - - - - -
+Interval Transfer Bandwidth Jitter Lost/Total Datagrams    
+0.00-90.00 sec 865 KBytes 78.8 Kbits/sec 198.447 ms -2072312426/-2072312425 (1e+02%)
+Sent -2072312425 datagrams       
+         
+         
+         
+<==         
+89.80-89.90 sec 5.75 KBytes 471 Kbits/sec 4   
+89.90-90.00 sec 1.44 KBytes 118 Kbits/sec 1   
+- - - - - - - - - -
+Interval Transfer Bandwidth Jitter Lost/Total Datagrams    
+0.00-90.00 sec 2.14 MBytes 200 Kbits/sec 381.846 ms 536/1508 (36%)
+Sent 1508 datagrams       
+         
+         
+         
+<==         
+89.80-89.90 sec 2.88 KBytes 236 Kbits/sec 2   
+89.90-90.00 sec 1.44 KBytes 118 Kbits/sec 1   
+- - - - - - - - - -
+Interval Transfer Bandwidth Jitter Lost/Total Datagrams    
+0.00-90.00 sec 2.14 MBytes 200 Kbits/sec 38.136 ms 281/1527 (18%)
+Sent 1527 datagrams       
+         
+         
+         
+<==         
+89.80-89.90 sec 1.44 KBytes 118 Kbits/sec 1   
+89.90-90.00 sec 1.44 KBytes 118 Kbits/sec 1   
+- - - - - - - - - -
+Interval Transfer Bandwidth Jitter Lost/Total Datagrams    
+0.00-90.00 sec 1.46 MBytes 136 Kbits/sec 45.047 ms -1484264151/-1484264150 (1e+02%)
+Sent -1484264150 datagrams       
+         
+

@@ -1,0 +1,6 @@
+DEST ADDR         NEXT HOP          IFACE	SN	METRIC	QLEN	EXPTIME		DTIM	DRET	FLAGS
+18:d6:c7:0c:8a:77 18:d6:c7:0c:7a:e8 mesh0	118	6666	0	0	1600	4	0x14
+18:d6:c7:0b:fb:26 18:d6:c7:0c:7a:e8 mesh0	47	1946	0	0	1600	4	0x14
+18:d6:c7:0c:08:fe 18:d6:c7:0c:7a:e8 mesh0	527	13947	0	728	1600	4	0x15
+18:d6:c7:0c:76:b3 18:d6:c7:0c:7a:e8 mesh0	30	10139	0	0	1600	4	0x4
+18:d6:c7:0c:7a:e8 18:d6:c7:0c:7a:e8 mesh0	54	456	0	728	200	1	0x15
